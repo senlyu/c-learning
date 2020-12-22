@@ -24,7 +24,7 @@ int main() {
     int totalCount = 0;
     for (int i = 0;i<testRound;i++) {
         int result = oneTestRound();
-        if (result>4) {
+        if (result>=4) {
             totalCount++;
         };
     };
