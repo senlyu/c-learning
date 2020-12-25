@@ -5,9 +5,10 @@ extern int a, b;
 extern int c;
 extern float f;
 
-int main() {
+int main()
+{
     /* variable definition: */
-    int a,b,c;
+    int a, b, c;
     float f;
 
     /* actual init */
